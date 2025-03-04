@@ -1,4 +1,29 @@
-## Data Preparation
+# Data Preparation
+This document describes the approach to collecting an ESV version of the bible.
+
+
+## Acquisition
+
+### Bible Text
+
+Scraped from biblegateway.com.
+
+
+### Subsections inside of books
+
+Scraped from biblestudystart.com.
+
+
+
+
+
+
+
+
+
+-----
+
+
 
 This describes the extraction and processing steps to go from .pdf to structured text.
 
